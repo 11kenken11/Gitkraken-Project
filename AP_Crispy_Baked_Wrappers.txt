@@ -43,3 +43,6 @@ Modif test branching 2
 Test Without rebase
 
 With Rebase
+
+
+stash
